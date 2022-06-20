@@ -5,6 +5,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>small-spring-step01</module>
+        <module>small-spring-step-02</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
